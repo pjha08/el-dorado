@@ -1,2 +1,2 @@
 # el-dorado
-The city if gold
+The city of gold
